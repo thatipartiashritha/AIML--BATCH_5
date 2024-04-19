@@ -8,3 +8,4 @@ https://github.com/thatipartiashritha/AIML--BATCH_5/blob/main/assignment6.ipynb 
 https://github.com/thatipartiashritha/AIML--BATCH_5/blob/main/assignment7.ipynb <br/>
 https://github.com/thatipartiashritha/AIML--BATCH_5/blob/main/assignment8.ipynb <br/>
 https://github.com/thatipartiashritha/AIML--BATCH_5/blob/main/assignment9.ipynb <br/>
+https://github.com/thatipartiashritha/AIML--BATCH_5/blob/main/Lab10_KMeans.ipynb <br/>
