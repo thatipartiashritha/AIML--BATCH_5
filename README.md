@@ -6,3 +6,4 @@ https://github.com/thatipartiashritha/AIML--BATCH_5/blob/main/assignment%204.ipy
 https://github.com/thatipartiashritha/AIML--BATCH_5/blob/main/assignment5.ipynb <br/>
 https://github.com/thatipartiashritha/AIML--BATCH_5/blob/main/assignment6.ipynb <br/>
 https://github.com/thatipartiashritha/AIML--BATCH_5/blob/main/assignment7.ipynb <br/>
+https://github.com/thatipartiashritha/AIML--BATCH_5/blob/main/assignment8.ipynb <br/>
